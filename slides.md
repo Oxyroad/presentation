@@ -17,6 +17,14 @@
     - ZTM: archiwum
     - ZTM: scrape'owanie strony
 
+![](dataflow1.png)\ 
+
+## Przetwarzanie danych
+
+![](dataflow2.png)\ 
+
+![](dataflow3.png)\ 
+
 ## Połączenie danych z frontendem
 - Aplikacja flaskowa wystawiająca wcześniej przeliczone dane
 - Całość danych przesyłana jest przez REST API
