@@ -12,6 +12,7 @@
 
 ## Scrape'owanie danych
 
-- Skrypt w Pythonie
-- VPS
-
+- Dane online: skrypt w Pythonie + VPS
+- Dane offlne
+    - ZTM: archiwum
+    - ZTM: scrape'owanie strony
